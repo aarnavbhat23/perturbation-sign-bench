@@ -1,3 +1,11 @@
+# Moved to bio-evidence
+
+This tool is maintained as [`bio_evidence.perturbation_effects`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/perturbation_effects.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
+
+This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+
+---
+
 # Perturbation Sign Bench
 
 Audit gene-effect direction, context slices and performance against a zero-effect baseline.
